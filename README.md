@@ -15,7 +15,6 @@ Confira o tutorial ou siga as instruções abaixo para configurar.
 
 Se você não tiver o Node.js instalado, instale-o aqui (versão do Node.js >= 14.6.0 necessária)
 
-Clonar este repositório
 
 Navegue até o diretório do projeto
 
