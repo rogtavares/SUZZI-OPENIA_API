@@ -40,7 +40,7 @@ Faça uma cópia do arquivo de variáveis ​​de ambiente de exemplo
    ```
 Adicione sua chave de API ao .envarquivo recém-criado [API key](https://platform.openai.com/account/api-keys) to the newly created `.env` file
 
-7. Execute o aplicativo
+7. Execute o aplicativo ..
 
    ```bash
    $ npm run dev
